@@ -1,6 +1,7 @@
 # AI-Inspection-system.
 
 In the fast-paced and increasingly complex landscape of institutional inspections, efficiency, accuracy, and actionable insights are paramount. Our cutting-edge AI-driven inspection system revolutionizes the way institutions are assessed by leveraging state-of-the-art artificial intelligence technologies. This system not only automates tedious inspection tasks but also provides deep insights that are often overlooked by traditional methods.
+
 <img width="311" alt="Screenshot 2024-09-08 at 10 39 38 AM" src="https://github.com/user-attachments/assets/67597864-7151-4e3a-a5fe-86f191a40943">
 
 Key Components of the AI Model
