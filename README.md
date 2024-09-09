@@ -3,6 +3,8 @@ In the fast-paced and increasingly complex landscape of institutional inspection
 
 Key Components of the AI Model
 Advanced Image Recognition: Enhancing Visual Assessments
+![Blank diagram](https://github.com/user-attachments/assets/d2dc7b0e-19fa-4231-857e-3501279a92f2)
+
 
 Powerful Backbone: At the core of our visual inspection system lies the EfficientNet model, a neural network architecture known for its exceptional balance of accuracy and efficiency. EfficientNet has been pre-trained on millions of images, giving it the ability to generalize well across diverse environments.
 Real-World Applications: When assessing an institution’s infrastructure—whether it's the condition of a classroom, the safety standards of a laboratory, or the cleanliness of communal areas—the system can automatically analyze images uploaded by inspectors. It identifies and classifies objects, detects anomalies, and flags potential issues with unparalleled precision.
@@ -16,6 +18,9 @@ Pattern Recognition: Predictive Analytics for Proactive Management
 
 Machine Learning for Trend Analysis: Our system doesn’t just stop at assessing the current state of your institution. By utilizing a RandomForest-based pattern recognition model, it can analyze historical data to identify trends and predict future outcomes. This is particularly useful for identifying recurring issues or predicting future compliance risks.
 Actionable Insights: The pattern recognition model transforms raw data into actionable insights, enabling institutions to make data-driven decisions. Whether it's forecasting maintenance needs or optimizing resource allocation, the system empowers institutions to stay ahead of the curve.
+![Blank diagram 7 14 08 PM](https://github.com/user-attachments/assets/706ecc3e-0822-4fc6-b74b-4845ad63af44)
+
+
 Customization: The model is designed to be adaptable. As more data is fed into the system, it continues to learn and improve, providing increasingly accurate predictions and recommendations tailored to your institution's unique needs.
 The Competitive Edge
 Scalability: Whether you're inspecting a small school or a large university campus, our AI models are designed to scale. The system can handle massive datasets, ensuring that every detail is captured and analyzed.
